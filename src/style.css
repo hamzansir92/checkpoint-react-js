@@ -1,0 +1,14 @@
+.form
+{
+    width: 40vw;
+    background-color: gray;
+    border: 5px solid burlywood;
+    padding: 5%;
+    margin: 4%;
+}
+h2 {
+    font-size: 150%;
+    margin-left: 15%;
+    color: blueviolet;
+    padding-top: 5%;
+}
